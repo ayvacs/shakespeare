@@ -2,7 +2,7 @@
 title: "The Stratford Compilation"
 ---
 
-Welcome to <i>The Stratford Compilation</i>, a collection of Shakespeare's plays and poetry available freely on the Internet.
+Welcome to <i>The Stratford Compilation</i>, a collection of various plays and poetry written by William Shakespeare, available freely on the Internet.
 
 Unless otherwise specified, all content on this website, including the website's source code, is licensed under the Unlicense.<br>Certain works on this website may be licensed differently; before utilizing this website's contents in a commercial setting, ensure that you have legal permission to do so.<br>The author of this website shall not be held legally responsible for your stupid-ass mistakes.
 
@@ -10,6 +10,23 @@ View this project's full license [here](https://github.com/ayvacs/shakespeare/bl
 
 Written by &lt;ayvacs@pm.me&gt;
 
-## Nothings' here yet
+## Contents
 
-im working on it.
+<table style="cell-border:1px;">
+	<tr>
+		<th colspan="3">Plays</th>
+		<th>Poetry</th>
+	</tr>
+	<tr>
+		<th>Comedy</th>
+		<th>History</th>
+		<th>Tragedy</th>
+		<th>General</th>
+	</tr>
+	<tr>
+		<td>Contents</td>
+		<td>Contents</td>
+		<td>Contents</td>
+		<td>Contents</td>
+	</tr>
+</table>

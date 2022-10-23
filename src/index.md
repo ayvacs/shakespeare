@@ -1,13 +1,13 @@
 ---
-title: "Hello World"
+title: "The Stratford Compilation"
 ---
 
-# hello there
+Welcome to <i>The Stratford Compilation</i>, a collection of Shakespeare's plays and poetry available freely on the Internet.
 
-what the fork!!
+All content on this website, including the website's source code, is licensed under the Unlicense.<br>View this project's full license [here](https://github.com/ayvacs/shakespeare/blob/main/LICENSE), view its source code [here](https://github.com/ayvacs/shakespeare), read more about and the Unlicense [here](https://unlicense.org/).
 
-## h2
+Written by &lt;ayvacs@pm.me&gt;
 
-### h3
+## Nothings' here yet
 
-Hello World
+im working on it.

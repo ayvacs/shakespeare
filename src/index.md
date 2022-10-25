@@ -13,10 +13,6 @@ Written by &lt;ayvacs@pm.me&gt;
 
 ## Contents
 
-### The Bodleian First Folio
-
-The following works are transcribed from [The Bodleian First Folio](https://firstfolio.bodleian.ox.ac.uk/downloads.html).
-
 <table style="cell-border:1px;">
 	<tr>
 		<th colspan="3">Plays</th>
@@ -31,7 +27,7 @@ The following works are transcribed from [The Bodleian First Folio](https://firs
 	<tr>
 		<td></td>
 		<td></td>
-		<td><a href="bodleian/romeo-and-juliet">Romeo and Juliet</a></td>
+		<td><a href="mit/romeo-and-juliet">Romeo and Juliet</a></td>
 		<td></td>
 	</tr>
 </table>

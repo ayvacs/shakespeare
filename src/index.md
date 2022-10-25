@@ -1,5 +1,6 @@
 ---
 title: "The Stratford Compilation"
+style: "_styles/main.css"
 ---
 
 Welcome to <i>The Stratford Compilation</i>, a collection of various plays and poetry written by William Shakespeare, available freely on the Internet.
@@ -28,9 +29,9 @@ The following works are transcribed from [The Bodleian First Folio](https://firs
 		<th>General</th>
 	</tr>
 	<tr>
-		<td>Contents</td>
-		<td>Contents</td>
-		<td>Contents</td>
-		<td>Contents</td>
+		<td></td>
+		<td></td>
+		<td><a href="bodleian/romeo-and-juliet">Romeo and Juliet</a></td>
+		<td></td>
 	</tr>
 </table>

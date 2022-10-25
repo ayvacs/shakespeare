@@ -15,6 +15,7 @@ body, html {
 
 :root {
 	--header-pad: calc(96px + env(safe-area-inset-left));
+	--line-margin: 60px;
 }
 
 #header,
@@ -82,4 +83,16 @@ table, th, td, th {
 #th {
 	font-size: 26px;
 	font-weight: bold;
+}
+
+blockquote {
+	margin-left: var(--line-margin);
+}
+
+.lineIndicator {
+	position: absolute;
+	left: calc(var(--header-pad) - 20px);
+	width: var(--line-margin);
+	text-align: right;
+	color: rgb(135, 135, 135);
 }

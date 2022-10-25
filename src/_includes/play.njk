@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<base target="_blank">
+	<title>{{ title }} | TSC</title>
+	<link rel="favicon" href="https://raw.githubusercontent.com/ayvacs/shakespeare/main/icon.png">
+	<link rel="stylesheet" href={{ style }}>
+	<link rel="stylesheet" href="https://use.typekit.net/yfu3acx.css">
+	<script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
+</head>
+<body>
+	<table style="position:absolute;top:8px;left:1%;border:0px;padding:12px;background-color:rgba(0, 0, 0, .2)" width="98%" bgcolor="#FFFFFF">
+		<tr>
+			<td align="center" style="border:0px;font-size:24px;font-weight:bold;">The Stratford Compilation</td>
+		</tr>
+		<tr>
+			<td align="center" style="border:0px;font-size:24px;">
+				<a target="_self" href="../../">Home</a>
+			</td>
+		</tr>
+	</table>
+
+	<div id="header">
+		<h1>{{ title }}</h1>
+	</div>
+	<div id="content-main">
+		{{ content | safe }}
+	</div>
+
+	<script>
+		var elems = document.getElementsByTagName("p");
+		for (var i in elems) {
+			var v = elems[i];
+			if (v.getAttribute("name") != null && v.getAttribute("name").charAt(0) != "s") {
+				var lineNum = v.getAttribute("name").split(".")[2];
+				var lineContent = "";
+				if (lineNum == 1 || lineNum % 5 == 0) {
+					lineContent = lineNum;	
+				};
+				v.innerHTML = `<span class="lineIndicator">` + lineContent + "</span>" + v.innerHTML;
+			};
+		};
+	</script>
+</body>
+</html>

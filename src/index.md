@@ -27,7 +27,10 @@ Written by &lt;ayvacs@pm.me&gt;
 	<tr>
 		<td></td>
 		<td></td>
-		<td><a href="mit/romeo-and-juliet">Romeo and Juliet</a></td>
+		<td>
+			<a href="mit/hamlet">Hamlet</a><br>
+			<a href="mit/romeo-and-juliet">Romeo and Juliet</a>
+		</td>
 		<td></td>
 	</tr>
 </table>

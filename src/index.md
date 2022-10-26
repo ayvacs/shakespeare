@@ -25,7 +25,9 @@ Written by &lt;ayvacs@pm.me&gt;
 		<th>General</th>
 	</tr>
 	<tr>
-		<td></td>
+		<td>
+			<a href="mit/a-midsummer-nights-dream">A Midsummer Night's Dream</a>
+		</td>
 		<td></td>
 		<td>
 			<a href="mit/hamlet">Hamlet</a><br>

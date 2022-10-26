@@ -7741,11 +7741,9 @@
 			var v = elems[i];
 			if (( v && v.nodeType ) && v.getAttribute("name") != null && v.getAttribute("name").charAt(0) != "s") {
 				var lineNum = v.getAttribute("name").split(".")[2];
-				var lineContent = "";
 				if (lineNum == 1 || lineNum % 5 == 0) {
-					lineContent = lineNum;	
+					v.innerHTML = `<span class="lineIndicator">` + lineNum + "</span>" + v.innerHTML;
 				};
-				v.innerHTML = `<span class="lineIndicator">` + lineContent + "</span>" + v.innerHTML;
 			};
 		};
 	</script>

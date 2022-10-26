@@ -30,6 +30,7 @@ Written by &lt;ayvacs@pm.me&gt;
 		</td>
 		<td></td>
 		<td>
+			<a href="mit/antony-and-cleopatra">Antony and Cleopatra</a><br>
 			<a href="mit/coriolanus">Coriolanus</a><br>
 			<a href="mit/hamlet">Hamlet</a><br>
 			<a href="mit/julius-caesar">Julius Caesar</a><br>

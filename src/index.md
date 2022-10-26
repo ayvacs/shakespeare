@@ -33,6 +33,7 @@ Written by &lt;ayvacs@pm.me&gt;
 			<a href="mit/hamlet">Hamlet</a><br>
 			<a href="mit/julius-caesar">Julius Caesar</a><br>
 			<a href="mit/macbeth">Macbeth</a><br>
+			<a href="mit/othello">Othello</a><br>
 			<a href="mit/romeo-and-juliet">Romeo and Juliet</a>
 		</td>
 		<td></td>

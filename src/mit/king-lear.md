@@ -1,6 +1,6 @@
 ---
 layout: "play.njk"
-title: "Romeo and Juliet"
+title: "King Lear"
 style: "../../_styles/main.css"
 ---
 
